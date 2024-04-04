@@ -35,5 +35,5 @@ The principal now has the required permissions to deploy the template.
 
 ## Deleting the Azure Landing Zone
 
-Removing the Azure Landing Zone infrastructure can be a complex task. To streamline this process, we have developed a deletion script located in the "delete" folder of our GitHub repository. You can access the script and its documentation in [Delete](https://github.com/intikhabalam/Azure-landing-zone-accelerator/) folder. This script automates the removal of all deployed infrastructure and policies created by the Azure Landing Zone platform within your subscription.
+Removing the Azure Landing Zone infrastructure can be a complex task. To streamline this process, we have developed a deletion script located in the "delete" folder of our GitHub repository. You can access the script and its documentation in [Delete](https://github.com/intikhabalam/Azure-landing-zone-accelerator/blob/main/Platform%20landing%20zone%20accelerator/delete%20script/delete%20alz.ps1) folder. This script automates the removal of all deployed infrastructure and policies created by the Azure Landing Zone platform within your subscription.
 
